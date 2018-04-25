@@ -8,8 +8,8 @@ Required additional python modules:
 - pyprog
 - click
 
-To install, 
-$ sudo pip install pyprog
-$ sudo pip install click
-
+To install, <br> 
+$ sudo pip install pyprog<br>
+$ sudo pip install click<br>
+<br>
 Tested under python 2.7 on Ubuntu 16.04 
