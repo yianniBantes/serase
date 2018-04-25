@@ -1,6 +1,6 @@
 Python script that shreds files. It can also delete them after shreding. 
-Usage:
-python erase.py <file-name> --delete(optional) 
+<br>Usage:<br>
+python erase.py <file-name> --delete(optional) <br>
 
 --delete parameter is optional. If present, then the script will delete the file after shreding. 
 
